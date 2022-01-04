@@ -1,1 +1,2 @@
 # odin-recipes
+First coding project using HTML. Goal is to build a basic recipe website consisting of a main index page with links to a few recipes. Will be revisiting this project once I've learned CSS.
